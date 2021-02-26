@@ -1,0 +1,15 @@
+name: PremiumPlugin
+version: 1.0.0.0
+main: me.wendellmeset.$premiumplugin.Main
+author: wendellmeset
+description: Its premium, get over it...
+api-version: 1.13
+commands:
+  premium:
+    description: Alows you to use premiumplugin
+    aliases: [prem]
+    permission-message: &4No Permission Little Sir...
+  speed:
+    description: Speedy Little Guy!!
+    aliases: [sped]
+    permission-message: &4No Permission Little Mrs....

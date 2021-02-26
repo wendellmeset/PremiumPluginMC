@@ -1,0 +1,4 @@
+#Logged into Premium
+#This is fake, just try, do /premium in game and it wont change the value of this, but it will still let you do /speed, but if you dont do /premium before doing /speed on every server restart, youll get an error!!
+
+logged-in: false
